@@ -33,11 +33,6 @@
 				}
 			}
 		],
-		"variables": {
-			"var": {
-				"type": "Array"
-			}
-		},
 		"annotations": []
 	}
 }
