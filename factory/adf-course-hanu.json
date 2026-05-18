@@ -1,0 +1,15 @@
+{
+	"name": "adf-course-hanu",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c292d00-2502-4c1b-b162-fd970beede45",
+		"tenantId": "ef28c2bf-7336-46e9-8034-a9c98e1179e7"
+	}
+}
